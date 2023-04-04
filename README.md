@@ -19,7 +19,7 @@ git submodule update --init --recursive
 ```
 
 
-## Instación
+## Instalación
 La aplicación corre en forma independiente y puede ser ejecutada con:
 
 $ huayra-duino.sh
@@ -51,7 +51,7 @@ limitations under the License.
 
 
 [1]: https://developers.google.com/blockly/
-[2]: http://www.arduino.cc/en/main/software/
+[2]: https://www.arduino.cc/en/software/
 [3]: TODO.md
 [4]: https://github.com/carlosperate/ardublockly/releases/
 [5]: https://github.com/carlosperate/ardublockly/wiki/Installing-Ardublockly
